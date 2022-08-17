@@ -6,6 +6,7 @@
 <br/> <br/>
 # Projects:
 <br></br>
+<hr>
 
 ## [Hangman](https://github.com/timw5/sliceofbread.epizy)
 >>I Built this project using only php, and HTML. It has a login system connected to an azure sql database, and stores passwords salted, and hashed using sha-256. Below is a screenshot of the game itself. I use PHP's session storage to store relevant session information for each user. I implemented "Kanye.Rest" API to display kanye west quotes after each guess. Once you reach your last guess, I used the Dictionary.com api to display the definition of the word to guess.
@@ -35,7 +36,11 @@
 <br><br/>
 ![StockInvestingApp](/Assets/Stocks.png)
 <br><br/>
+>>
 <br><br/>
+<hr>
+<br><br/>
+
 
 ## [Multiplayer Boggle Game](https://github.com/timw5/Boggle)
 >>This is application is a 2 player boggle game. It can support multiple games simultaneously, but only 2 users can play a game together at any given time. It is implemented using .Net Blazor, Azure signalR, websockets, Azure Sql Server, and hosted as an Azure WebApp. I use Python, pandas, and sql alchemy to create a small pipeline to download ~300,000 words in the english language, and store them in a database, and I created an AzureSignalR instance that supports web sockets. I implemented the DBContext for Entity Framework using a Factory design pattern and a context manager to prevent memory leaks, A context instance is created when it is needed, and deleted when it is done being used. I created a SignalR Hub that manages the user connections, and games being played. A user can create a game, and the hub will generate a random password. Another user can then join that game instance using the password, once both users have accepted, the boggle game will start. I fill a board with ~40% vowels, and the rest constants, displayed in a 4x4 grid. The user then tries to guess as many words as possible in 30 seconds, but each letter of the word must be adjacent to the current character selected. Each word entered is compared to the words stored in the database, and gets a certain number of points if the word is valid, depending on how many characters are in the word. After 30 seconds the game ends, and both word lists for each user, and scores are displayed. 
