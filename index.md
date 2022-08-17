@@ -3,9 +3,13 @@
 I am a student at Weber State University pursuing a Bachelors degree in Computer Science, with a minor in Mathematics.
 I am currently working as a Data Engineer at Marketstar.
 
-### Markdown
+## Projects:
+### Hangman
+### Banking App
+### Stock Investing App
+### Multiplayer Boggle Game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
