@@ -24,6 +24,9 @@
 <br><br/>
 ![BankingApp](/Assets/banking.png)
 <br><br/>
+>>
+<br><br/>
+<hr>
 <br><br/>
 
 
