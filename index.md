@@ -19,7 +19,8 @@
 ## [Banking App](https://github.com/timw5/BankingApp)
 >> This application simulates a banking application the database used is an azure sql server instance. It has a login system, and stores passwords salted, and hashed using sha-256. I store all application data in a database.<br><br/>
 >>The application is built with RazorPages, C# on the back end, and razor(.cshtml) on the front end, with javascript. To manage the database instance within razorpages, I implemented Entity Framework. Below is a screenshot of the application. 
-
+<br><br/>
+![BankingApp](/Assets/banking.png)
 
 
 
