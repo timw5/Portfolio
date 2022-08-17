@@ -5,7 +5,7 @@
 ## I am currently working as a Data Engineer at Marketstar.
 <br/> <br/>
 # Projects:
-
+<br></br>
 
 ## [Hangman](https://github.com/timw5/sliceofbread.epizy)
 >>I Built this project using only php, and HTML. It has a login system connected to an azure sql database, and stores passwords salted, and hashed using sha-256. Below is a screenshot of the game itself. I use PHP's session storage to store relevant session information for each user. I implemented "Kanye.Rest" API to display kanye west quotes after each guess. Once you reach your last guess, I used the Dictionary.com api to display the definition of the word to guess.
