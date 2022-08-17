@@ -7,6 +7,7 @@
 
 ### [Hangman](https://github.com/timw5/sliceofbread.epizy)
 - I Built this project using only php, and HTML. It has 
+![Hangman](/Assets/Hangman.png)
 
 
 ### [Banking App](https://github.com/timw5/BankingApp)
